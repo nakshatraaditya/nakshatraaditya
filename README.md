@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @nakshatraaditya
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning all that i can about Data
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @nakshatraaditya, a passionate student eager to explore the realms of data science, machine learning, and everything in between. My background may vary, but my enthusiasm for data-driven insights drives me forward. Feel free to join me on this learning adventure!
+
 
 <!---
 nakshatraaditya/nakshatraaditya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
